@@ -8,14 +8,14 @@ export default function Team() {
 				<div className="fugu--section-title-wrap">
 					<div className="fugu--section-title">
 						<div className="fugu--default-content content-sm">
-							<h2>Meet our dynamic team</h2>
-							<p>
+							<h2>Partners y Empresas Colaboradoras</h2>
+							{/* <p>
 								Collectors who value these relationships will look for NFTs with unique narratives and
 								creation processes.
-							</p>
+							</p> */}
 						</div>
 					</div>
-					<div className="fugu--section-button">
+					{/* <div className="fugu--section-button">
 						<div className="fugu--portfolio-btn">
 							<Link href={"#"} legacyBehavior>
 								<a className="fugu--outline-btn">
@@ -23,7 +23,7 @@ export default function Team() {
 								</a>
 							</Link>
 						</div>
-					</div>
+					</div> */}
 				</div>
 				<div className="row">
 					<div className="col-lg-4 col-md-6">
@@ -33,13 +33,9 @@ export default function Team() {
 									<img src="/images/all-img/v3/team1.jpg" alt="" />
 								</div>
 								<div className="fugu--team-data">
-									<h4>Jane Cooper</h4>
-									<p>CEO & Founder</p>
+									<h4>BaBylissPRO</h4>
 								</div>
 							</div>
-							<button type="button" className="fugu--dot-btn">
-								<img src="/images/svg2/dots.svg" alt="" />
-							</button>
 						</div>
 					</div>
 					<div className="col-lg-4 col-md-6">
@@ -49,13 +45,9 @@ export default function Team() {
 									<img src="/images/all-img/v3/team2.jpg" alt="" />
 								</div>
 								<div className="fugu--team-data">
-									<h4>Esther Howard</h4>
-									<p>Art Director</p>
+									<h4>OneStudioMen</h4>
 								</div>
 							</div>
-							<button type="button" className="fugu--dot-btn">
-								<img src="/images/svg2/dots.svg" alt="" />
-							</button>
 						</div>
 					</div>
 					<div className="col-lg-4 col-md-6">
@@ -65,13 +57,10 @@ export default function Team() {
 									<img src="/images/all-img/v3/team3.jpg" alt="" />
 								</div>
 								<div className="fugu--team-data">
-									<h4>Cameron Williamson</h4>
-									<p>Marketing Officer</p>
+									<h4>L3VEL3 SPAIN</h4>
+									{/* <p>Marketing Officer</p> */}
 								</div>
 							</div>
-							<button type="button" className="fugu--dot-btn">
-								<img src="/images/svg2/dots.svg" alt="" />
-							</button>
 						</div>
 					</div>
 					<div className="col-lg-4 col-md-6">
@@ -81,13 +70,13 @@ export default function Team() {
 									<img src="/images/all-img/v3/team4.jpg" alt="" />
 								</div>
 								<div className="fugu--team-data">
-									<h4>Brooklyn Simmons</h4>
-									<p>Operating Officer</p>
+									<h4>Block Labs Group</h4>
+									{/* <p>Operating Officer</p> */}
 								</div>
 							</div>
-							<button type="button" className="fugu--dot-btn">
+							{/* <button type="button" className="fugu--dot-btn">
 								<img src="/images/svg2/dots.svg" alt="" />
-							</button>
+							</button> */}
 						</div>
 					</div>
 					<div className="col-lg-4 col-md-6">
@@ -97,13 +86,13 @@ export default function Team() {
 									<img src="/images/all-img/v3/team5.jpg" alt="" />
 								</div>
 								<div className="fugu--team-data">
-									<h4>Leslie Alexander</h4>
-									<p>Graphic Designer</p>
+									<h4>Block Labs Group</h4>
+									{/* <p>Graphic Designer</p> */}
 								</div>
 							</div>
-							<button type="button" className="fugu--dot-btn">
+							{/* <button type="button" className="fugu--dot-btn">
 								<img src="/images/svg2/dots.svg" alt="" />
-							</button>
+							</button> */}
 						</div>
 					</div>
 					<div className="col-lg-4 col-md-6">
@@ -113,13 +102,9 @@ export default function Team() {
 									<img src="/images/all-img/v3/team6.jpg" alt="" />
 								</div>
 								<div className="fugu--team-data">
-									<h4>Guy Hawkins</h4>
-									<p>UI/UX Designer</p>
+									<h4>Cronpay</h4>
 								</div>
 							</div>
-							<button type="button" className="fugu--dot-btn">
-								<img src="/images/svg2/dots.svg" alt="" />
-							</button>
 						</div>
 					</div>
 				</div>

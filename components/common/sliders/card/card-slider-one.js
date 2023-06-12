@@ -49,10 +49,11 @@ export default function CardSliderOne() {
 			<div className="container">
 				<div className="fugu--section-title">
 					<div className="fugu--default-content content-sm">
-						<h2>This weeks trending collections</h2>
+						<h2> Beneficios del pase “The Barber” para clientes.</h2>
 						<p>
-							Some of these upcoming trends could change the way we experience the web, brand products,
-							buy and sell art, even create & experience music.
+							Este pase está enfocado en las personas que van a cuidar
+							su imagen personal, recibe un trato exclusivo y una serie de
+							ventajas VIP. 
 						</p>
 					</div>
 				</div>
@@ -60,92 +61,66 @@ export default function CardSliderOne() {
 					<Slider {...settings}>
 						<div className="fugu--card-wrap">
 							<div className="fugu--card-thumb">
-								<img src="/images/all-img/v3/card1.jpg" alt="" />
+								<img src="/images/beneficios/imagen9.png" alt="" />
 							</div>
 							<div className="fugu--card-data">
-								<h3>Meta Frog Club: VIP Sale</h3>
-								<p>Pre-sale : 18 May 2023</p>
-								<div className="fugu--card-footer">
-									<div className="fugu--card-footer-data">
-										<span>Mint Price:</span>
-										<h4>0.194 ETH</h4>
-									</div>
-									<Link href={"/"} legacyBehavior>
-										<a className="fugu--btn btn-sm bg-white">Place a Bid</a>
-									</Link>
-								</div>
+								<h3>Cortes, tintes y rituales de barba gratuitos</h3>
 							</div>
 						</div>
 						<div className="fugu--card-wrap">
 							<div className="fugu--card-thumb">
-								<img src="/images/all-img/v3/card2.jpg" alt="" />
+								<img src="/images/beneficios/X1.png" alt="" />
 							</div>
 							<div className="fugu--card-data">
-								<h3>The Exorians Universe</h3>
-								<p>Pre-sale : 18 May 2023</p>
-								<div className="fugu--card-footer">
-									<div className="fugu--card-footer-data">
-										<span>Mint Price:</span>
-										<h4>0.194 ETH</h4>
-									</div>
-									<Link href={"/"} legacyBehavior>
-										<a className="fugu--btn btn-sm bg-white">Place a Bid</a>
-									</Link>
-								</div>
+								<h3>Descuentos Especiales en todos los Servicios.</h3>
 							</div>
 						</div>
 						<div className="fugu--card-wrap">
 							<div className="fugu--card-thumb">
-								<img src="/images/all-img/v3/card3.jpg" alt="" />
+								<img src="/images/beneficios/X2.png" alt="" />
 							</div>
 							<div className="fugu--card-data">
-								<h3>CryptoPunks 4D Official</h3>
-								<p>Pre-sale : 18 May 2023</p>
-								<div className="fugu--card-footer">
-									<div className="fugu--card-footer-data">
-										<span>Mint Price:</span>
-										<h4>0.194 ETH</h4>
-									</div>
-									<Link href={"/"} legacyBehavior>
-										<a className="fugu--btn btn-sm bg-white">Place a Bid</a>
-									</Link>
-								</div>
+								<h3>Promociones y Descuentos en productos y empresas colaboradoras (Cremas, Polvos, Cera…)</h3>
 							</div>
 						</div>
 						<div className="fugu--card-wrap">
 							<div className="fugu--card-thumb">
-								<img src="/images/all-img/v3/card4.jpg" alt="" />
+								<img src="/images/beneficios/X3.png" alt="" />
 							</div>
 							<div className="fugu--card-data">
-								<h3>The Bees Kingdom</h3>
-								<p>Pre-sale : 18 May 2023</p>
-								<div className="fugu--card-footer">
-									<div className="fugu--card-footer-data">
-										<span>Mint Price:</span>
-										<h4>0.194 ETH</h4>
-									</div>
-									<Link href={"/"} legacyBehavior>
-										<a className="fugu--btn btn-sm bg-white">Place a Bid</a>
-									</Link>
-								</div>
+								<h3>Sorteos exclusivos de cortes, rituales de barba, tintes, productos para el cabello, merchandising etc.</h3>
 							</div>
 						</div>
 						<div className="fugu--card-wrap">
 							<div className="fugu--card-thumb">
-								<img src="/images/all-img/v3/card5.jpg" alt="" />
+								<img src="/images/beneficios/Imagen11.png" alt="" />
 							</div>
 							<div className="fugu--card-data">
-								<h3>CryptoPunks 4D Official</h3>
-								<p>Pre-sale : 18 May 2023</p>
-								<div className="fugu--card-footer">
-									<div className="fugu--card-footer-data">
-										<span>Mint Price:</span>
-										<h4>0.194 ETH</h4>
-									</div>
-									<Link href={"/"} legacyBehavior>
-										<a className="fugu--btn btn-sm bg-white">Place a Bid</a>
-									</Link>
-								</div>
+								<h3>Trato exclusivo en el establecimiento (masaje capilar, corte más exhaustivo y detallado, agregar productos gratuitamente al cabello)</h3>
+							</div>
+						</div>
+						<div className="fugu--card-wrap">
+							<div className="fugu--card-thumb">
+								<img src="/images/beneficios/Imagen1.png" alt="" />
+							</div>
+							<div className="fugu--card-data">
+								<h3>Solo cortes con Antonio.</h3>
+							</div>
+						</div>
+						<div className="fugu--card-wrap">
+							<div className="fugu--card-thumb">
+								<img src="/images/beneficios/Imagen13.png" alt="" />
+							</div>
+							<div className="fugu--card-data">
+								<h3>Reservar con antelación en ocasiones especiales</h3>
+							</div>
+						</div>
+						<div className="fugu--card-wrap">
+							<div className="fugu--card-thumb">
+								<img src="/images/beneficios/Imagen2.png" alt="" />
+							</div>
+							<div className="fugu--card-data">
+								<h3> Asesoramiento y creación de proyectos de corte</h3>
 							</div>
 						</div>
 					</Slider>

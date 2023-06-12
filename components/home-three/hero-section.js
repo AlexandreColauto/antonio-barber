@@ -11,11 +11,12 @@ export default function HeroSection() {
 					<div className="col-lg-7">
 						<div className="fugu--hero-content">
 							<h1 className="wow fadeInUpX" data-wow-delay="0s">
-								Discover the latest digital art and collect NFTs
+								“Descubre la nueva experiencia de cortarse el cabello”
 							</h1>
 							<p className="wow fadeInUpX" data-wow-delay="0.10s">
-								The largest NFT marketplace. We make NFTs easier and more efficient for culture and
-								creativity, built efficiently for you.
+								Cortes y tintes gratuitos, descuentos y sorteos en productos y marcas asociadas,
+								reservar de manera exclusiva , asesoramiento gratuito en proyectos de corte,
+								rituales de barba a coste 0 y mucho más!
 							</p>
 							<div className="fugu--btn-wrap fugu--hero-btn wow fadeInUpX" data-wow-delay="0.20s">
 								<Link href={"#"} legacyBehavior>
@@ -29,29 +30,29 @@ export default function HeroSection() {
 								<div className="fugu--counter-data">
 									<h2>
 										<span data-percentage="45" className="fugu--counter">
-											<CountUp end={45} />
+											<CountUp end={18} />
 										</span>
 										<strong>K</strong>
 									</h2>
-									<p>Artwork</p>
+									<p>Clientes</p>
 								</div>
 								<div className="fugu--counter-data">
 									<h2>
 										<span data-percentage="86" className="fugu--counter">
-											<CountUp end={86} />
+											<CountUp end={6} />
 										</span>
-										<strong>K</strong>
+										<strong>Y</strong>
 									</h2>
-									<p>Auction</p>
+									<p>Experiencia</p>
 								</div>
 								<div className="fugu--counter-data">
 									<h2>
 										<span data-percentage="32" className="fugu--counter">
-											<CountUp end={32} />
+											<CountUp end={5} />
 										</span>
-										<strong>K</strong>
+										<strong>⭐️</strong>
 									</h2>
-									<p>Artist</p>
+									<p>Google y Booksy</p>
 								</div>
 							</div>
 						</div>
@@ -60,18 +61,18 @@ export default function HeroSection() {
 						<div className="fugu--hero-right" id="rotateOne">
 							<div className="fugu--card-wrap">
 								<div className="fugu--card-thumb">
-									<img src="/images/all-img/v3/hero-thumb2.png" alt="" />
+									<img src="/images/logo/logo.jpg" alt="" />
 								</div>
 								<div className="fugu--card-data">
-									<h3>The Exorians Universe</h3>
-									<p>Pre-sale : 18 May 2023</p>
+									<h3>Compra tu pase “The Barber” </h3>
+									<p>y empieza a disfrutar de sus múltiples beneficios.</p>
 									<div className="fugu--card-footer">
-										<div className="fugu--card-footer-data">
+										{/* <div className="fugu--card-footer-data">
 											<span>Mint Price:</span>
 											<h4>0.194 ETH</h4>
-										</div>
+										</div> */}
 										<Link href={"#"} legacyBehavior>
-											<a className="fugu--btn btn-sm bg-white">Place a Bid</a>
+											<a className="fugu--btn btn-sm bg-white">Comprar</a>
 										</Link>
 									</div>
 								</div>

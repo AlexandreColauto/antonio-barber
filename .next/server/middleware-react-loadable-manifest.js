@@ -1,1 +1,1 @@
-self.__REACT_LOADABLE_MANIFEST={"../components/common/video/video-section-two.js -> react-modal-video":{"id":"../components/common/video/video-section-two.js -> react-modal-video","files":["static/chunks/node_modules_react-modal-video_lib_index_js.js"]}}
+self.__REACT_LOADABLE_MANIFEST={"index.js -> ../components/common/filter-gallary/filter-gallary-one":{"id":"index.js -> ../components/common/filter-gallary/filter-gallary-one","files":["static/chunks/components_common_filter-gallary_filter-gallary-one_js.js"]}}

@@ -8,7 +8,7 @@
 	--primary-600: #724fe5;
 	--primary-500: #2c04fe;
 	--success-500: #32e7b1;
-	--warning-600: #eee6d0;
+	--warning-600: black;
 	--warning-500: #ffc947;
 	--warning-400: #f0e9e1;
 	--warning-300: #fffdf5;
@@ -5974,6 +5974,7 @@ a.fugu-app-btn:last-child {
 }
 
 .fugu-accordion-item {
+	color: white;
 	margin-bottom: 40px;
 	padding-bottom: 40px;
 	border-bottom: 1px solid var(--gray-800);
@@ -6058,7 +6059,7 @@ a.fugu-faq-btn:hover {
 	font-size: 20px;
 	line-height: 1;
 	font-family: "Inter", sans-serif;
-	color: var(--gray-800);
+	color: white !important;
 	background-color: transparent;
 }
 @media (max-width: 767px) {
@@ -6070,6 +6071,7 @@ a.fugu-faq-btn:hover {
 }
 .nexto-accordion-one .accordion-button:not(.collapsed) {
 	box-shadow: none;
+	color: white !important;
 }
 .nexto-accordion-one .accordion-button:after {
 	background-repeat: no-repeat;
@@ -6159,6 +6161,7 @@ a.fugu-faq-btn:hover {
 
 .fugu--faq-section {
 	background-color: var(--warning-600);
+	color: white;
 }
 .fugu--faq-section .fugu--default-content {
 	margin-right: 20px;
@@ -6173,20 +6176,23 @@ a.fugu-faq-btn:hover {
 	z-index: 0;
 	position: relative;
 	background-color: var(--gray-800);
+	color: white;
 }
 
 .fugu--accordion-one .accordion-item {
+	color: white !important;
 	border: none;
 	background-color: transparent;
 	border-bottom: 2px solid var(--gray-800);
 }
 .fugu--accordion-one .accordion-button {
+	color: white !important;
 	padding: 30px 0;
 	font-weight: 600;
 	font-size: 24px;
 	line-height: 1;
 	font-family: "Inter", sans-serif;
-	color: var(--gray-800);
+	/* color: var(--gray-800); */
 	background-color: transparent;
 }
 @media (max-width: 767px) {
@@ -6207,9 +6213,10 @@ a.fugu-faq-btn:hover {
 	transform: rotate(-45deg);
 }
 .fugu--accordion-one .accordion-body {
+
 	font-size: 18px;
 	line-height: 30px;
-	color: rgba(19, 17, 26, 0.8);
+	color: white !important;
 	padding: 0 220px 25px 0;
 }
 @media (max-width: 1199px) {
@@ -7983,12 +7990,12 @@ a.fugu-pricing-btn.active {
 	}
 }
 .fugu--default-content.content-black h2 {
-	color: var(--gray-800);
+	color: white;
 	font-family: "Public Sans", sans-serif;
 }
 .fugu--default-content.content-black p {
 	opacity: 0.8;
-	color: var(--gray-800);
+	color: white;
 }
 
 .fugu--section-title2 {
@@ -9238,10 +9245,10 @@ a.fugu-pricing-btn.active {
 	margin: 0;
 }
 
-.fugu--faq-section.dark-version {
+.fugu--G-section.dark-version {
 	background-color: var(--gray-800);
 }
-.fugu--faq-section.dark-version .fugu--section-title {
+.fugu--©-section.dark-version .fugu--section-title {
 	margin: 0 auto 45px;
 }
 @media (max-width: 991px) {

@@ -6,10 +6,9 @@ export default function NftRoadMap() {
 			<div className="container">
 				<div className="fugu--section-title">
 					<div className="fugu--default-content content-sm">
-						<h2>Create and sell your NFTs</h2>
+						<h2>¿Cómo puedo comprar el pase?</h2>
 						<p>
-							Anyone can make a profile on Foundation but only selected creators can mint NFTs & published
-							a complete guide.
+							Te explicamos paso a paso cómo obtener el pase, no serán más de 2 minutos.
 						</p>
 					</div>
 				</div>
@@ -20,10 +19,9 @@ export default function NftRoadMap() {
 								<img src="/images/all-img/v3/roadmap-icon1.png" alt="" />
 							</div>
 							<div className="fugu--iconbox-data">
-								<h4>Set up your wallet</h4>
+								<h4>Haz click en el botón de comprar</h4>
 								<p>
-									Once you've set up your wallet of choice, connect it by clicking the wallet icon
-									easily.
+									Lo encontrarás en varios apartados de la web.
 								</p>
 							</div>
 						</div>
@@ -34,10 +32,9 @@ export default function NftRoadMap() {
 								<img src="/images/all-img/v3/roadmap-icon2.png" alt="" />
 							</div>
 							<div className="fugu--iconbox-data">
-								<h4>Create collection</h4>
+								<h4>Registrate con correo y contraseña en Cronpay</h4>
 								<p>
-									Click my collections and set up your collection. Add social links a description and
-									others.
+								Una vez le des al boton de comprar se abrirá una página llamada Cronpay, deberás registrarte con tu correo electrónico y la contraseña que prefieras para adquirir el pase. 
 								</p>
 							</div>
 						</div>
@@ -48,9 +45,9 @@ export default function NftRoadMap() {
 								<img src="/images/all-img/v3/roadmap-icon3.png" alt="" />
 							</div>
 							<div className="fugu--iconbox-data">
-								<h4>Add your NFT</h4>
+								<h4>Elige el pase que más se adapte a tus necesidades</h4>
 								<p>
-									Upload your work (Image, art, video, audio, or 3D art) add a title and description.
+									Dentro de Cronpay podrás elegir entre el pase para formación (academy) o el pase para cliente de la barbería(customer) 
 								</p>
 							</div>
 						</div>
@@ -61,10 +58,9 @@ export default function NftRoadMap() {
 								<img src="/images/all-img/v3/roadmap-icon4.png" alt="" />
 							</div>
 							<div className="fugu--iconbox-data">
-								<h4>List them for sale</h4>
+								<h4>Añade tu método de pago</h4>
 								<p>
-									Choose between action, fixed-price listings & pricing listings. We help you sell
-									them.
+									Una vez elegido el pase, podrás pagar de distintas formas, realizalo de la forma que se te haga más cómoda y una vez se confirme el pago te llegará el pase a tu perfil de Cronpay.
 								</p>
 							</div>
 						</div>

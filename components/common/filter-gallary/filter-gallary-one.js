@@ -41,15 +41,14 @@ export default function FilterGalarryOne() {
 			<div className="container">
 				<div className="fugu--section-title">
 					<div className="fugu--default-content content-sm">
-						<h2>Explore the most unique artworks</h2>
+						<h2>Beneficios del pase “The Barber” para alumnos.</h2>
 						<p>
-							NFTs are usually associated with non-physical art but in reality, there are several
-							different types of NFTs and are explained in this guide.
+							Este pase está enfocado en las personas que quieren aprender a cortar el cabello con uno de los peluqueros más reconocidos de Andalucía.
 						</p>
 					</div>
 				</div>
 
-				<div className="fugu--portfolio-menu">
+				{/* <div className="fugu--portfolio-menu">
 					<ul className="option-set clear-both">
 						<li onClick={handleFilterKeyChange("*")} className={handleActiveClass("*")}>
 							<span>
@@ -85,45 +84,27 @@ export default function FilterGalarryOne() {
 							</span>
 						</li>
 					</ul>
-				</div>
+				</div> */}
 				<div className="fugu--portfolio-wrap" id="fugu--four-column">
 					<div className="collection-grid-item sports domain">
 						<div className="fugu--card-wrap">
 							<div className="fugu--card-thumb">
-								<img src="/images/all-img/v3/card5.jpg" alt="" />
+								<img src="/images/beneficios/X4.png" alt="" />
 							</div>
 							<div className="fugu--card-data">
-								<h3>3D ZelenskiyNFT</h3>
-								<p>Pre-sale : 18 May 2023</p>
-								<div className="fugu--card-footer">
-									<div className="fugu--card-footer-data">
-										<span>Mint Price:</span>
-										<h4>0.194 ETH</h4>
-									</div>
-									<Link href={"#"} legacyBehavior>
-										<a className="fugu--btn btn-sm bg-white">Place a Bid</a>
-									</Link>
-								</div>
+								<h3>Academia online con contenido</h3>
+								<p>categorizado y actualizaciones continuas</p>
 							</div>
 						</div>
 					</div>
 					<div className="collection-grid-item video marketing">
 						<div className="fugu--card-wrap">
 							<div className="fugu--card-thumb">
-								<img src="/images/all-img/v3/card6.jpg" alt="" />
+								<img src="/images/beneficios/X11.png" alt="" />
 							</div>
 							<div className="fugu--card-data">
-								<h3>Scotch Noblemen Song</h3>
-								<p>Pre-sale : 18 May 2023</p>
-								<div className="fugu--card-footer">
-									<div className="fugu--card-footer-data">
-										<span>Mint Price:</span>
-										<h4>0.194 ETH</h4>
-									</div>
-									<Link href={"#"} legacyBehavior>
-										<a className="fugu--btn btn-sm bg-white">Place a Bid</a>
-									</Link>
-								</div>
+								<h3>Asistencia en formaciónes presenciales</h3>
+								<p>impartidas por Antonio</p>
 							</div>
 						</div>
 					</div>

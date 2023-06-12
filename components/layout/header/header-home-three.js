@@ -31,7 +31,7 @@ export default function HeaderHomeThree() {
 				<nav className="navbar site-navbar">
 					<div className="brand-logo">
 						<Link href={"/"}>
-							<img src="/images/logo/logo-white.svg" alt="" className="light-version-logo" />
+							<img src="/images/logo/logo.jpg" alt="" className="light-version-logo" />
 						</Link>
 					</div>
 					<div className="menu-block-wrapper">
@@ -47,17 +47,13 @@ export default function HeaderHomeThree() {
 							</div>
 
 							<Navbar>
-								<NavItem navItemText="Demo" menuItems={DemoDropdownMenus} />
-								<NavItem navItemText="Pages" menuItems={PagesDropdownMenus} />
-								<NavItem navItemText="Elements" menuItems={ElementsMegaMenu} megaMenu />
-								<NavItem navItemText="Blog" menuItems={BlogDropdownMenus} />
-								<NavItem navItemText="Contact Us" menuItems={ContactDropdownMenus} />
+								<NavItem navItemText="Reservar cita" link="https://booksy.com/es-es/34193_antonio-the-barber_barberia_29847_benacazon"/>
 							</Navbar>
 						</nav>
 					</div>
 					<div className="header-btn header-btn-l1 ms-auto d-none d-xs-inline-flex">
 						<a className="fugu--btn fugu--menu-btn1" href="contact.html">
-							Connect Wallet
+							Comprar pase
 						</a>
 					</div>
 					<div className="mobile-menu-trigger" onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}>
