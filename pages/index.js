@@ -13,6 +13,10 @@ const FilterGalarryOne = dynamic(() => import("../components/common/filter-galla
 	ssr: false,
 });
 
+const FilterGalarryOneCopy = dynamic(() => import("../components/common/filter-gallary/filter-gallary-one-copy"), {
+	ssr: false,
+});
+
 export default function IndexThree() {
 	return (
 		<>
@@ -22,7 +26,9 @@ export default function IndexThree() {
 			<HeroSection />
 			<CardSliderOne />
 			<FilterGalarryOne />
+			
 			<TextSliderTwo />
+			{/* <FilterGalarryOneCopy /> */}
 			<Team />
 			<FaqAccordionOne />
 			<NftRoadMap />

@@ -80,7 +80,7 @@ export default function CardSliderOne() {
 								<img src="/images/beneficios/X2.png" alt="" />
 							</div>
 							<div className="fugu--card-data">
-								<h3>Promociones y Descuentos en productos y empresas colaboradoras (Cremas, Polvos, Cera…)</h3>
+								<h3>Promociones y Descuentos en productos y empresas colaboradoras</h3>
 							</div>
 						</div>
 						<div className="fugu--card-wrap">
@@ -88,7 +88,7 @@ export default function CardSliderOne() {
 								<img src="/images/beneficios/X3.png" alt="" />
 							</div>
 							<div className="fugu--card-data">
-								<h3>Sorteos exclusivos de cortes, rituales de barba, tintes, productos para el cabello, merchandising etc.</h3>
+								<h3>Sorteos exclusivos de cortes. tintes, productos, merchandising</h3>
 							</div>
 						</div>
 						<div className="fugu--card-wrap">
@@ -96,7 +96,7 @@ export default function CardSliderOne() {
 								<img src="/images/beneficios/Imagen11.png" alt="" />
 							</div>
 							<div className="fugu--card-data">
-								<h3>Trato exclusivo en el establecimiento (masaje capilar, corte más exhaustivo y detallado, agregar productos gratuitamente al cabello)</h3>
+								<h3>Trato exclusivo en el establecimiento</h3>
 							</div>
 						</div>
 						<div className="fugu--card-wrap">

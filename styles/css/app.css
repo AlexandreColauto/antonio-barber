@@ -2382,7 +2382,7 @@ header.fugu--header-section {
 	transition: all 0.4s;
 }
 header.fugu--header-section.fugu--header-three {
-	background-color: var(--gray-800);
+	background-color: black;
 }
 header.fugu--header-section.fugu--header-three .site-menu-main .nav-link-item {
 	color: var(--gray-10);
@@ -3084,6 +3084,13 @@ footer.fugo--footer-section.white-version .fugo--footer-bottom p {
 	border-radius: 10px;
 	padding: 15.5px 36px;
 }
+
+.social-icon{
+	font-size: 20px;
+	color: white;
+	margin: 0px 10px;
+}
+
 .fugu--btn.active:before {
 	opacity: 1;
 }
@@ -3908,6 +3915,7 @@ button#fugu--search-btn {
 
 /* card */
 .fugu--card-wrap {
+	width: 300px;
 	border-radius: 10px;
 	padding: 20px;
 	transition: all 0.4s;
@@ -4654,7 +4662,7 @@ a.fugu-app-btn:last-child {
 	background-size: cover;
 	position: relative;
 	background-position: center bottom;
-	background-color: var(--gray-800);
+	background-color: black;
 }
 @media (max-width: 991px) {
 	.fugu--hero-section {
@@ -5545,7 +5553,7 @@ a.fugu-app-btn:last-child {
 }
 .fugu--team-thumb {
 	width: 80px;
-	height: 80px;
+	/* height: 80px; */
 	border-radius: 10px;
 	overflow: hidden;
 	margin-right: 20px;

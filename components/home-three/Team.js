@@ -30,7 +30,7 @@ export default function Team() {
 						<div className="fugu--team-wrap wow fadeInUpX" data-wow-delay="0s">
 							<div className="fugu--team-left">
 								<div className="fugu--team-thumb">
-									<img src="/images/all-img/v3/team1.jpg" alt="" />
+									<img src="/images/logos/babyliss.png" alt="" />
 								</div>
 								<div className="fugu--team-data">
 									<h4>BaBylissPRO</h4>
@@ -42,7 +42,7 @@ export default function Team() {
 						<div className="fugu--team-wrap wow fadeInUpX" data-wow-delay="0.10s">
 							<div className="fugu--team-left">
 								<div className="fugu--team-thumb">
-									<img src="/images/all-img/v3/team2.jpg" alt="" />
+									<img src="/images/logos/studio.png" alt="" />
 								</div>
 								<div className="fugu--team-data">
 									<h4>OneStudioMen</h4>
@@ -54,7 +54,7 @@ export default function Team() {
 						<div className="fugu--team-wrap wow fadeInUpX" data-wow-delay="0.20s">
 							<div className="fugu--team-left">
 								<div className="fugu--team-thumb">
-									<img src="/images/all-img/v3/team3.jpg" alt="" />
+									<img src="/images/logos/level.png" alt="" />
 								</div>
 								<div className="fugu--team-data">
 									<h4>L3VEL3 SPAIN</h4>
@@ -67,7 +67,7 @@ export default function Team() {
 						<div className="fugu--team-wrap wow fadeInUpX" data-wow-delay="0.30s">
 							<div className="fugu--team-left">
 								<div className="fugu--team-thumb">
-									<img src="/images/all-img/v3/team4.jpg" alt="" />
+									<img src="/images/logos/bajo.png" alt="" />
 								</div>
 								<div className="fugu--team-data">
 									<h4>Block Labs Group</h4>
@@ -83,10 +83,10 @@ export default function Team() {
 						<div className="fugu--team-wrap wow fadeInUpX" data-wow-delay="0.40s">
 							<div className="fugu--team-left">
 								<div className="fugu--team-thumb">
-									<img src="/images/all-img/v3/team5.jpg" alt="" />
+									<img src="/images/logos/isaac.png" alt="" />
 								</div>
 								<div className="fugu--team-data">
-									<h4>Block Labs Group</h4>
+									<h4>Isaac Lyonel</h4>
 									{/* <p>Graphic Designer</p> */}
 								</div>
 							</div>
@@ -99,7 +99,7 @@ export default function Team() {
 						<div className="fugu--team-wrap wow fadeInUpX" data-wow-delay="0.50s">
 							<div className="fugu--team-left">
 								<div className="fugu--team-thumb">
-									<img src="/images/all-img/v3/team6.jpg" alt="" />
+									<img src="/images/logos/cron.jpg" alt="" />
 								</div>
 								<div className="fugu--team-data">
 									<h4>Cronpay</h4>
