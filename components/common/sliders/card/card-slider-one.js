@@ -61,7 +61,7 @@ export default function CardSliderOne() {
 					<Slider {...settings}>
 						<div className="fugu--card-wrap">
 							<div className="fugu--card-thumb">
-								<img src="/images/beneficios/imagen9.png" alt="" />
+								<img src="/images/beneficios/Imagen9.png" alt="" />
 							</div>
 							<div className="fugu--card-data">
 								<h3>Cortes, tintes y rituales de barba gratuitos</h3>
@@ -77,7 +77,7 @@ export default function CardSliderOne() {
 						</div>
 						<div className="fugu--card-wrap">
 							<div className="fugu--card-thumb">
-								<img src="/images/beneficios/X2.png" alt="" />
+								<img src="/images/beneficios/x2.png" alt="" />
 							</div>
 							<div className="fugu--card-data">
 								<h3>Promociones y Descuentos en productos y empresas colaboradoras</h3>
