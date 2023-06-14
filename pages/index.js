@@ -27,11 +27,11 @@ export default function IndexThree() {
 			<HeroSection />
 			<CardSliderOne />
 			<FilterGalarryOne />
-			<TextSliderTwo />
-			<Team />
 			<FilterGalarryOneCopy />
-			<FaqAccordionOne />
+			<Team />
+			<TextSliderTwo />
 			<NftRoadMap />
+			<FaqAccordionOne />
 			<NewsLetter />
 		</>
 	);

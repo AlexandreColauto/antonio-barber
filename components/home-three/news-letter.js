@@ -25,9 +25,9 @@ export default function NewsLetter() {
 					</div> */}
 				</div>
 			</div>
-			<div className="fugu--shape4">
+			{/* <div className="fugu--shape4">
 				<img src="/images/shape2/shape4.png" alt="" />
-			</div>
+			</div> */}
 		</div>
 	);
 }

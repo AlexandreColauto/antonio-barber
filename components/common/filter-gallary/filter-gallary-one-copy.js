@@ -152,9 +152,9 @@ export default function FilterGalarryOne() {
 					</Link>
 				</div>
 			</div>
-			<div className="fugu--shape2">
+			{/* <div className="fugu--shape2">
 				<img src="/images/shape2/shape2.png" alt="" />
-			</div>
+			</div> */}
 		</div>
 	);
 }

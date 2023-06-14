@@ -109,9 +109,9 @@ export default function Team() {
 					</div>
 				</div>
 			</div>
-			<div className="fugu--shape3">
+			{/* <div className="fugu--shape3">
 				<img src="/images/shape2/shape3.png" alt="" />
-			</div>
+			</div> */}
 		</div>
 	);
 }

@@ -126,9 +126,9 @@ export default function CardSliderOne() {
 					</Slider>
 				</div>
 			</div>
-			<div className="fugu--shape1">
+			{/* <div className="fugu--shape1">
 				<img src="/images/shape2/shape1.png" alt="" />
-			</div>
+			</div> */}
 		</div>
 	);
 }

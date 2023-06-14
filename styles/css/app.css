@@ -2390,7 +2390,7 @@ header.fugu--header-section.fugu--header-three .site-menu-main .nav-link-item {
 
 header.fugu--header-section.sticky-menu {
 	padding: 10px 0;
-	background-color: var(--gray-800);
+	background-color: black;
 }
 
 .fugu--header-two .site-menu-main .nav-link-item {
@@ -2673,7 +2673,7 @@ footer.fugu-foote2-section .fugu-default-content .fugu-app-btn-wrap {
 }
 
 footer.fugu--footer-section {
-	background-color: var(--gray-800);
+	background-color: black;
 }
 
 .fugu--footer-top {
@@ -3045,7 +3045,7 @@ footer.fugo--footer-section.white-version .fugo--footer-bottom p {
 	border-radius: 10px;
 	display: inline-block;
 	color: var(--gray-10);
-	background: linear-gradient(to right, #ff00d4, #7d41ea, #0080ff);
+	background: #8cc63f;
 }
 .fugu--outline-btn span {
 	display: flex;
@@ -3101,7 +3101,7 @@ footer.fugo--footer-section.white-version .fugo--footer-bottom p {
 	color: #fff;
 	padding: 10.5px 31px;
 	background-size: 200% auto !important;
-	background: linear-gradient(to right, #ff00d4 0%, #7d41ea 30.35%, #0080ff 100%);
+	background: #8cc63f
 }
 .fugu--btn.fugu--menu-btn1:hover {
 	background-position: right center;
@@ -3231,7 +3231,7 @@ footer.fugo--footer-section.white-version .fugo--footer-bottom p {
 	transition: all 0.4s;
 	opacity: 0;
 	border-radius: 10px;
-	background: linear-gradient(225deg, #0080ff 0%, #7d41ea 46.35%, #ff00d4 100%);
+	background: black
 }
 .fugu--btn:hover:before {
 	opacity: 1;
@@ -3923,9 +3923,9 @@ button#fugu--search-btn {
 	background: #201c2c;
 	box-shadow: 0 0 0 1px white;
 }
-.fugu--card-wrap:hover {
+/* .fugu--card-wrap:hover {
 	box-shadow: 0 0 0 1px rgba(255, 255, 255, 0);
-}
+} */
 .fugu--card-wrap:hover:before {
 	opacity: 1;
 }
@@ -3941,7 +3941,7 @@ button#fugu--search-btn {
 	opacity: 0;
 	transition: all 0.4s;
 	border-radius: inherit;
-	background: linear-gradient(to right, #ff00d4, #7d41ea, #0080ff);
+	background: white;
 }
 .fugu--card-wrap:hover .fugu--btn:before {
 	color: var(--gray-10);
@@ -4662,7 +4662,7 @@ a.fugu-app-btn:last-child {
 	background-size: cover;
 	position: relative;
 	background-position: center bottom;
-	background-image: url("/images/vinilo-filter.jpg");
+	background-image: url("/images/vinilo-filter.png");
 }
 @media (max-width: 991px) {
 	.fugu--hero-section {
@@ -5204,7 +5204,7 @@ a.fugu-app-btn:last-child {
 	color: white;
 }
 .fugu--counter-data h2 strong {
-	background: linear-gradient(225deg, #0080ff 0%, #7d41ea 46.35%, #ff00d4 100%);
+	background: #fcee21;
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	background-clip: text;
@@ -5533,7 +5533,7 @@ a.fugu-app-btn:last-child {
 .fugu--team-section {
 	position: relative;
 	z-index: 0;
-	background-color: var(--gray-800);
+	background-color: black;
 	border-bottom: 1px solid #26242c;
 }
 
@@ -5866,7 +5866,7 @@ a.fugu-app-btn:last-child {
 	display: inline-block;
 	padding: 0 10px;
 	color: white;
-	background-color: var(--gray-800);
+	background-color: black;
 }
 .fugu--iconbox-data p {
 	color: #ffffff;
@@ -7972,7 +7972,7 @@ a.fugu-pricing-btn.active {
 	color: white;
 }
 .fugu--default-content.content-sm h2 {
-	/* margin-top: 100px; */
+	padding-top: 60px;
 	font-size: 42px;
 	line-height: 48px;
 	color: white;
@@ -8240,7 +8240,7 @@ a.fugu-pricing-btn.active {
 }
 
 .fugu--slider-section {
-	background-color: var(--gray-800);
+	background-color: black;
 	position: relative;
 	z-index: 0;
 }
@@ -8259,14 +8259,14 @@ a.fugu-pricing-btn.active {
 	transform: translateY(-50%);
 	width: 60px;
 	height: 60px;
-	color: #201c2c;
+	color: yellow;
 	font-size: 20px;
 	cursor: pointer;
 	border-radius: 100%;
 	background-size: 10px;
 	background-position: center;
 	background-repeat: no-repeat;
-	background-color: var(--gray-10);
+	background-color: black;
 	border: 5px solid #13111a;
 	transition: all 0.4s;
 	background-image: url("/images/svg2/arrow-left.svg");
@@ -8375,7 +8375,7 @@ a.fugu-pricing-btn.active {
 }
 
 .fugu--portfolio-section {
-	background-color: var(--gray-800);
+	background-color: black;
 }
 .fugu--portfolio-section .fugu--card-wrap {
 	margin-bottom: 24px;
@@ -8406,7 +8406,7 @@ a.fugu-pricing-btn.active {
 .fugu--text-slider-section {
 	padding: 22px 0;
 	overflow: hidden;
-	background: linear-gradient(225deg, #0080ff 0%, #7d41ea 46.35%, #ff00d4 100%);
+	background: linear-gradient(225deg, #000000 0%, #8cc63f 76.35%, #fcee21 100%);
 }
 
 .fugu--text-slider-data {
@@ -8424,8 +8424,8 @@ a.fugu-pricing-btn.active {
 }
 .fugu--text-slider-data h3 {
 	font-weight: 700;
-	font-size: 28px;
-	letter-spacing: 2px;
+	font-size: 20px;
+	/* letter-spacing: 2px; */
 	display: inline-block;
 	margin: 0 15px;
 	color: #fff;
@@ -8450,7 +8450,7 @@ a.fugu-pricing-btn.active {
 
 .fugu--roadmap-section {
 	padding: 115px 0 80px;
-	background-color: var(--gray-800);
+	background-color: black;
 }
 @media (max-width: 991px) {
 	.fugu--roadmap-section {
@@ -8469,15 +8469,15 @@ a.fugu-pricing-btn.active {
 .fugu--newslatter-section {
 	z-index: 0;
 	position: relative;
-	background-color: var(--gray-800);
+	background-color: black;
 }
 
 .fugu--newslatter-wrap {
 	border-radius: 10px;
-	padding: 100px;
+	padding: 25px;
 	text-align: center;
 	position: relative;
-	background: #201c2c;
+	background: black
 }
 @media (max-width: 991px) {
 	.fugu--newslatter-wrap {
@@ -8509,7 +8509,7 @@ a.fugu-pricing-btn.active {
 	margin: -2px;
 	transition: all 0.4s;
 	border-radius: inherit;
-	background: linear-gradient(to right, #ff00d4, #7d41ea, #0080ff);
+	/* background: linear-gradient(to right, #ff00d4, #7d41ea, #0080ff); */
 }
 
 .fugu-text-slider-section {
