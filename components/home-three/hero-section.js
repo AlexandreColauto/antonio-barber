@@ -4,7 +4,7 @@ import CountUp from "react-countup";
 
 export default function HeroSection() {
 	return (
-		<div className="fugu--hero-section" style={{ backgroundImage: "url(/images/all-img/v3/hero-bg.png)" }}>
+		<div className="fugu--hero-section">
 			<div id="fugu--counter"></div>
 			<div className="container">
 				<div className="row">
@@ -19,11 +19,11 @@ export default function HeroSection() {
 								rituales de barba a coste 0 y mucho más!
 							</p>
 							<div className="fugu--btn-wrap fugu--hero-btn wow fadeInUpX" data-wow-delay="0.20s">
-								<Link href={"#"} legacyBehavior>
-									<a className="fugu--btn bg-gray active">Get Started</a>
+								<Link href={"#conoce"} legacyBehavior>
+									<a className="fugu--btn bg-gray active">Conoce a Antonio</a>
 								</Link>
-								<Link href={"#"} legacyBehavior>
-									<a className="fugu--btn bg-gray">View Artwork</a>
+								<Link href={"#beneficios-alumnos"} legacyBehavior>
+									<a className="fugu--btn bg-gray">Beneficios del pase</a>
 								</Link>
 							</div>
 							<div className="fugu--counter-wrap wow fadeInUpX" data-wow-delay="0.30s">
@@ -80,10 +80,10 @@ export default function HeroSection() {
 						</div>
 					</div>
 				</div>
-				<div className="fugu--hero-shape1">
+				{/* <div className="fugu--hero-shape1">
 					<img src="/images/all-img/v3/shape-hero1.png" alt="" />
 				</div>
-				<div className="fugu--hero-shape2"></div>
+				<div className="fugu--hero-shape2"></div> */}
 			</div>
 		</div>
 	);

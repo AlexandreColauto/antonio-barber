@@ -3,7 +3,7 @@ import Link from "next/link";
 /* eslint-disable @next/next/no-img-element */
 export default function Team() {
 	return (
-		<div className="fugu--team-section fugu--section-padding2">
+		<div className="fugu--team-section fugu--section-padding2" id="partners">
 			<div className="container">
 				<div className="fugu--section-title-wrap">
 					<div className="fugu--section-title">

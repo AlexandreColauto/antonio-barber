@@ -2,7 +2,7 @@
 /* eslint-disable @next/next/no-img-element */
 export default function NftRoadMap() {
 	return (
-		<div className="fugu--roadmap-section">
+		<div className="fugu--roadmap-section" id="roadmap">
 			<div className="container">
 				<div className="fugu--section-title">
 					<div className="fugu--default-content content-sm">

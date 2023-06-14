@@ -1,7 +1,7 @@
 import { Accordion } from "react-bootstrap";
 export default function FaqAccordionOne() {
 	return (
-		<div className="fugu--faq-section fugu--section-padding">
+		<div className="fugu--faq-section fugu--section-padding" id="preguntas">
 			<div className="container">
 				<div className="row">
 					<div className="col-lg-4">

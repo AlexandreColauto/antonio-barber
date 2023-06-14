@@ -37,7 +37,7 @@ export default function FilterGalarryOne() {
 		if (key === activeClass) return "active";
 	};
 	return (
-		<div className="fugu--portfolio-section fugu--section-padding">
+		<div className="fugu--portfolio-section fugu--section-padding" id="beneficios-alumnos">
 			<div className="container">
 				<div className="fugu--section-title">
 					<div className="fugu--default-content content-sm">

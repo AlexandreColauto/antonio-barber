@@ -45,7 +45,7 @@ export default function CardSliderOne() {
 		],
 	};
 	return (
-		<div className="fugu--slider-section">
+		<div className="fugu--slider-section" id="beneficios-clientes">
 			<div className="container">
 				<div className="fugu--section-title">
 					<div className="fugu--default-content content-sm">

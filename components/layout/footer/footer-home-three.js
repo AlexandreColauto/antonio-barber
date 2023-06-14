@@ -2,6 +2,10 @@
 import Link from "next/link";
 import React from "react";
 
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
+import { faInstagram, faWhatsapp } from "@fortawesome/free-brands-svg-icons";
+
 export default function FooterHomeThree() {
 	return (
 		<footer className="fugu--footer-section">
@@ -10,33 +14,23 @@ export default function FooterHomeThree() {
 					<div className="row">
 						<div className="col-lg-3">
 							<div className="fugu--textarea">
-								<div className="fugu--footer-logo">
+								{/* <div className="fugu--footer-logo">
 									<img src="/images/logo/logo-white.svg" alt="" className="light-version-logo" />
 								</div>
 								<p>
 									Discover NFTs by category, track the latest drops, and follow the collections you
-									love to enjoy it!
-								</p>
+									love to enjoy it!!!
+								</p> */}
 								<div className="fugu--social-icon">
 									<ul>
 										<li>
-											<Link href="#">
-												<img src="/images/social2/twitter.svg" alt="" />
+											<Link href={"https://www.instagram.com/antoniothebarber94/"}>
+												<FontAwesomeIcon icon={faInstagram} />
 											</Link>
 										</li>
 										<li>
-											<Link href="#">
-												<img src="/images/social2/facebook.svg" alt="" />
-											</Link>
-										</li>
-										<li>
-											<Link href="#">
-												<img src="/images/social2/instagram.svg" alt="" />
-											</Link>
-										</li>
-										<li>
-											<Link href="#">
-												<img src="/images/social2/github.svg" alt="" />
+											<Link href={"https://api.whatsapp.com/send?phone=34691482161&text=Hola%20Antonio,%20me%20gustria%20saber%20m%C3%A1s%20sobre%20el%20pase%20digital%20de%20tu%20barberia."}>
+												<FontAwesomeIcon icon={faWhatsapp} />
 											</Link>
 										</li>
 									</ul>
@@ -45,66 +39,48 @@ export default function FooterHomeThree() {
 						</div>
 						<div className="col-lg-2 offset-lg-1 col-md-4 col-sm-4">
 							<div className="fugu--footer-menu">
-								<span>Marketplace</span>
 								<ul>
 									<li>
-										<Link href="#">Create A Store </Link>
+										<Link href={"#beneficios-clientes"}>
+											Beneficios clientes
+										</Link>
 									</li>
 									<li>
-										<Link href="#">Start Selling </Link>
-									</li>
-									<li>
-										<Link href="#">My Account </Link>
-									</li>
-									<li>
-										<Link href="#">Job </Link>
-									</li>
-									<li>
-										<Link href="#">List a Item </Link>
+										<Link href={"#beneficios-alumnos"}>
+											Beneficios alumnos
+										</Link>
 									</li>
 								</ul>
 							</div>
 						</div>
 						<div className="col-lg-2 offset-lg-1 col-md-4 col-sm-4">
 							<div className="fugu--footer-menu">
-								<span>Marketplace</span>
 								<ul>
 									<li>
-										<Link href="#">Art </Link>
+										<Link href={"#partners"}>
+											Partners
+										</Link>
 									</li>
 									<li>
-										<Link href="#">Digital Art </Link>
-									</li>
-									<li>
-										<Link href="#">Photography </Link>
-									</li>
-									<li>
-										<Link href="#">Games </Link>
-									</li>
-									<li>
-										<Link href="#">Music </Link>
+										<Link href={"#roadmap"}>
+											Roadmap
+										</Link>
 									</li>
 								</ul>
 							</div>
 						</div>
 						<div className="col-lg-2 offset-lg-1 col-md-4 col-sm-4">
 							<div className="fugu--footer-menu">
-								<span>Marketplace</span>
 								<ul>
 									<li>
-										<Link href="#">Explore NFTs </Link>
+										<Link href={"#preguntas"}>
+											Preguntas frequentes
+										</Link>
 									</li>
 									<li>
-										<Link href="#">Platform Status </Link>
-									</li>
-									<li>
-										<Link href="#">Help center </Link>
-									</li>
-									<li>
-										<Link href="#">Partners </Link>
-									</li>
-									<li>
-										<Link href="#">Marketplace </Link>
+										<Link href={"#mapa"}>
+												Ubicacion
+											</Link>
 									</li>
 								</ul>
 							</div>
@@ -112,7 +88,7 @@ export default function FooterHomeThree() {
 					</div>
 				</div>
 				<div className="fugu--footer-bottom">
-					assets <p>&copy; Copyright 2022, All Rights Reserved by Mthemeus</p>
+					{/* assets <p>&copy; Copyright 2022, All Rights Reserved by Mthemeus</p>
 					<div className="fugu--footer-menu">
 						<ul>
 							<li>
@@ -122,7 +98,7 @@ export default function FooterHomeThree() {
 								<Link href="#"> Privacy Policy </Link>
 							</li>
 						</ul>
-					</div>
+					</div> */}
 				</div>
 			</div>
 		</footer>
