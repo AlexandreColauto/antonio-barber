@@ -4662,7 +4662,7 @@ a.fugu-app-btn:last-child {
 	background-size: cover;
 	position: relative;
 	background-position: center bottom;
-	background-color: black;
+	background-image: url("/images/vinilo-filter.jpg");
 }
 @media (max-width: 991px) {
 	.fugu--hero-section {
@@ -7972,6 +7972,7 @@ a.fugu-pricing-btn.active {
 	color: white;
 }
 .fugu--default-content.content-sm h2 {
+	/* margin-top: 100px; */
 	font-size: 42px;
 	line-height: 48px;
 	color: white;
