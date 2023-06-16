@@ -3092,6 +3092,7 @@ footer.fugo--footer-section.white-version .fugo--footer-bottom p {
 }
 
 .fugu--btn.active:before {
+	background-color: #c0b51a;
 	opacity: 1;
 }
 .fugu--btn.active:hover:before {
@@ -3976,17 +3977,17 @@ button#fugu--search-btn {
 }
 .fugu--card-data p {
 	font-weight: 600;
-	font-size: 14px;
+	font-size: 16px;
 	line-height: 20px;
-	color: var(--gray-10);
-	opacity: 0.4;
+	color: white;
+	opacity: 0.9;
 	margin: 0;
 }
 .fugu--card-footer {
-	margin-top: 30px;
+margin-top: 30px;
 	display: flex;
 	align-items: center;
-	justify-content: space-between;
+	justify-content: center;
 }
 .fugu--card-footer-data span {
 	font-weight: 600;
@@ -4704,6 +4705,9 @@ a.fugu-app-btn:last-child {
 	letter-spacing: -0.5px;
 	margin-right: 80px;
 	color: white;
+	padding: 10px;
+	border-radius: 15px;
+	background-color: rgba(0, 0, 0, 0.7);
 }
 @media (max-width: 991px) {
 	.fugu--hero-content p {
@@ -4767,6 +4771,7 @@ a.fugu-app-btn:last-child {
 	}
 }
 .fugu--btn-wrap.fugu--hero-btn .fugu--btn {
+	background-color: #807a2b;
 	margin-right: 20px;
 }
 .fugu--btn-wrap.fugu--hero-btn .fugu--btn:last-child {

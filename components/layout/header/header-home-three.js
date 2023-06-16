@@ -52,30 +52,31 @@ export default function HeaderHomeThree() {
 
 							<Navbar>
 								<NavItem navItemText="Reservar cita" link="https://booksy.com/es-es/34193_antonio-the-barber_barberia_29847_benacazon"/>
+								<NavItem navItemText="Comprar pase" link="#beneficios-clientes"/>
 							</Navbar>
 						</nav>
 					</div>
 
-					<div className="header-btn header-btn-l1 ms-auto d-none d-xs-inline-flex">
-						<a className="fugu--btn fugu--menu-btn1" href="#">
+					{/* <div className="header-btn header-btn-l1 ms-auto d-none d-xs-inline-flex">
+						<a className="fugu--btn fugu--menu-btn1" href="#" target="_blank">
 							Comprar pase
 						</a>
-					</div>
+					</div> */}
 
 					<div className="header-btn header-btn-l1 ms-auto d-none d-xs-inline-flex">
-						<a className="social-icon" href="mailto:“antoniolabrinth@gmail.com”">
+						<a className="social-icon" href="mailto:“antoniolabrinth@gmail.com”" target="_blank">
 							<FontAwesomeIcon icon={faEnvelope} />
 						</a>
 					</div>
 
 					<div className="header-btn header-btn-l1 ms-auto d-none d-xs-inline-flex">
-						<a className="social-icon" href="https://api.whatsapp.com/send?phone=34691482161&text=Hola%20Antonio,%20me%20gustria%20saber%20m%C3%A1s%20sobre%20el%20pase%20digital%20de%20tu%20barberia.">
+						<a className="social-icon" href="https://api.whatsapp.com/send?phone=34691482161&text=Hola%20Antonio,%20me%20gustria%20saber%20m%C3%A1s%20sobre%20el%20pase%20digital%20de%20tu%20barberia." target="_blank">
 							<FontAwesomeIcon icon={faWhatsapp} />
 						</a>
 					</div>
 
 					<div className="header-btn header-btn-l1 ms-auto d-none d-xs-inline-flex">
-						<a className="social-icon" href="https://www.instagram.com/antoniothebarber94/">
+						<a className="social-icon" href="https://www.instagram.com/antoniothebarber94/" target="_blank">
 							<FontAwesomeIcon icon={faInstagram} />
 						</a>
 					</div>

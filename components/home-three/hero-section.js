@@ -65,7 +65,7 @@ export default function HeroSection() {
 								</div>
 								<div className="fugu--card-data">
 									<h3>Compra tu pase “The Barber” </h3>
-									<p>y empieza a disfrutar de sus múltiples beneficios.</p>
+									<p>Y empieza a disfrutar de sus múltiples beneficios.</p>
 									<div className="fugu--card-footer">
 										{/* <div className="fugu--card-footer-data">
 											<span>Mint Price:</span>
