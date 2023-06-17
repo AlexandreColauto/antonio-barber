@@ -54,8 +54,7 @@ export default function FilterGalarryOne() {
 								<img src="/images/beneficios/X4.png" alt="" />
 							</div>
 							<div className="fugu--card-data">
-								<h3>Academia online con contenido</h3>
-								<p>categorizado y actualizaciones continuas</p>
+								<h3>Academia online con contenido categorizado y actualizaciones continuas.</h3>
 							</div>
 						</div>
 					</div>
@@ -65,8 +64,7 @@ export default function FilterGalarryOne() {
 								<img src="/images/beneficios/X11.jpg" alt="" />
 							</div>
 							<div className="fugu--card-data">
-								<h3>Asistencia en formaciones</h3>
-								<p>impartidas por Antonio</p>
+								<h3>Asistencia en formaciones impartidas por Antonio.</h3>
 							</div>
 						</div>
 					</div>
@@ -77,8 +75,7 @@ export default function FilterGalarryOne() {
 								<img src="/images/beneficios/X14.jpg" alt="" />
 							</div>
 							<div className="fugu--card-data">
-								<h3>Invitados exclusivos</h3>
-								<p>en formaciones online y presenciales.</p>
+								<h3>Invitados exclusivos en formaciones online y presenciales.</h3>
 							</div>
 						</div>
 					</div>
@@ -89,8 +86,7 @@ export default function FilterGalarryOne() {
 								<img src="/images/beneficios/X7.jpg" alt="" />
 							</div>
 							<div className="fugu--card-data">
-								<h3>Sorteos y regalos especiales</h3>
-								<p>de material de barbero, productos y merchandising.</p>
+								<h3>Sorteos y regalos especiales de material de barbero, productos y merchandising.</h3>
 							</div>
 						</div>
 					</div>
@@ -101,8 +97,7 @@ export default function FilterGalarryOne() {
 								<img src="/images/beneficios/x8.png" alt="" />
 							</div>
 							<div className="fugu--card-data">
-								<h3>Concursos y retos</h3>
-								<p>con premios para los ganadores.</p>
+								<h3>Concursos y retos con premios para los ganadores.</h3>
 							</div>
 						</div>
 					</div>
@@ -113,8 +108,7 @@ export default function FilterGalarryOne() {
 								<img src="/images/beneficios/X9.png" alt="" />
 							</div>
 							<div className="fugu--card-data">
-								<h3>Certificaciones</h3>
-								<p>Antonio The Barber</p>
+								<h3>Certificaciones Antonio The Barber.</h3>
 							</div>
 						</div>
 					</div>
@@ -125,8 +119,7 @@ export default function FilterGalarryOne() {
 								<img src="/images/beneficios/X13.jpg" alt="" />
 							</div>
 							<div className="fugu--card-data">
-								<h3>Documentación y lecciones</h3>
-								<p>teóricas actualizadas.</p>
+								<h3>Documentación y lecciones teóricas actualizadas.</h3>
 							</div>
 						</div>
 					</div>
@@ -137,20 +130,7 @@ export default function FilterGalarryOne() {
 								<img src="/images/beneficios/X15.jpg" alt="" />
 							</div>
 							<div className="fugu--card-data">
-								<h3>Formaciones privadas y sorteos</h3>
-								<p>para asistir a cortes con famosos.</p>
-							</div>
-						</div>
-					</div>
-
-					<div className="collection-grid-item video marketing">
-						<div className="fugu--card-wrap">
-							<div className="fugu--card-thumb">
-								<img src="/images/beneficios/X15.jpg" alt="" />
-							</div>
-							<div className="fugu--card-data">
-								<h3>Formaciones privadas y sorteos</h3>
-								<p>para asistir a cortes con famosos.</p>
+								<h3>Formaciones privadas y sorteos para asistir a cortes con famosos.</h3>
 							</div>
 						</div>
 					</div>
@@ -161,8 +141,7 @@ export default function FilterGalarryOne() {
 								<img src="/images/beneficios/X9.jpg" alt="" />
 							</div>
 							<div className="fugu--card-data">
-								<h3>Ser acompañante de Antonio</h3>
-								<p>en los eventos a los que asista</p>
+								<h3>Ser acompañante de Antonio en los eventos a los que asista.</h3>
 							</div>
 						</div>
 					</div>
@@ -173,8 +152,7 @@ export default function FilterGalarryOne() {
 								<img src="/images/beneficios/X10.jpg" alt="" />
 							</div>
 							<div className="fugu--card-data">
-								<h3>Pertenecer a una comunidad privada</h3>
-								<p>donde hacer networking</p>
+								<h3>Pertenecer a una comunidad privada donde hacer networking.</h3>
 							</div>
 						</div>
 					</div>
@@ -185,20 +163,18 @@ export default function FilterGalarryOne() {
 								<img src="/images/beneficios/X12.jpg" alt="" />
 							</div>
 							<div className="fugu--card-data">
-								<h3>Obtener mayor visibilidad</h3>
-								<p>en RRSS gracias a promociones de Antonio</p>
+								<h3>Obtener mayor visibilidad en RRSS gracias a promociones de Antonio.</h3>
 							</div>
 						</div>
 					</div>
 				</div>
-				
-				<div className="fugu--portfolio-btn">
+				{/* <div className="fugu--portfolio-btn">
 					<Link href={"#"} legacyBehavior>
 						<a className="fugu--outline-btn">
 							<span>View All NFTs</span>
 						</a>
 					</Link>
-				</div>
+				</div> */}
 			</div>
 			{/* <div className="fugu--shape2">
 				<img src="/images/shape2/shape2.png" alt="" />

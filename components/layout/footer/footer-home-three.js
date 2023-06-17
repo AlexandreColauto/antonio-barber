@@ -24,14 +24,14 @@ export default function FooterHomeThree() {
 								<div className="fugu--social-icon">
 									<ul>
 										<li>
-											<Link href={"https://www.instagram.com/antoniothebarber94/"}>
+											<a href={"https://www.instagram.com/antoniothebarber94/"} target="_blank">
 												<FontAwesomeIcon icon={faInstagram} />
-											</Link>
+											</a>
 										</li>
 										<li>
-											<Link href={"https://api.whatsapp.com/send?phone=34691482161&text=Hola%20Antonio,%20me%20gustria%20saber%20m%C3%A1s%20sobre%20el%20pase%20digital%20de%20tu%20barberia."}>
+											<a href={"https://api.whatsapp.com/send?phone=34691482161&text=Hola%20Antonio,%20me%20gustria%20saber%20m%C3%A1s%20sobre%20el%20pase%20digital%20de%20tu%20barberia."} target="_blank">
 												<FontAwesomeIcon icon={faWhatsapp} />
-											</Link>
+											</a>
 										</li>
 									</ul>
 								</div>
@@ -63,7 +63,7 @@ export default function FooterHomeThree() {
 									</li>
 									<li>
 										<Link href={"#roadmap"}>
-											Roadmap
+											Pasos para comprar
 										</Link>
 									</li>
 								</ul>
@@ -74,7 +74,7 @@ export default function FooterHomeThree() {
 								<ul>
 									<li>
 										<Link href={"#preguntas"}>
-											Preguntas frequentes
+											Preguntas frecuentes
 										</Link>
 									</li>
 									<li>

@@ -61,7 +61,7 @@ export default function HeroSection() {
 						<div className="fugu--hero-right" id="rotateOne">
 							<div className="fugu--card-wrap">
 								<div className="fugu--card-thumb">
-									<img src="/images/logo/logo.jpg" alt="" />
+									<img src="/images/GIF.gif" alt="" />
 								</div>
 								<div className="fugu--card-data">
 									<h3>Compra tu pase “The Barber” </h3>

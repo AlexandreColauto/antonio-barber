@@ -48,14 +48,13 @@ export default function FilterGalarryOne() {
 					</div>
 				</div>
 				<div className="fugu--portfolio-wrap" id="fugu--four-column-copy">
-					<div className="collection-grid-item sports domain">
+					<div className="collection-grid-item">
 						<div className="fugu--card-wrap">
 							<div className="fugu--card-thumb">
 								<img src="/images/beneficios/imagen6.jpg" alt="" />
 							</div>
 							<div className="fugu--card-data">
-								<h3>Experto en tintes</h3>
-								<p>decoloraciones y permanentes</p>
+								<h3>Experto en tintes decoloraciones y permanentes.</h3>
 							</div>
 						</div>
 					</div>
@@ -65,8 +64,7 @@ export default function FilterGalarryOne() {
 								<img src="/images/beneficios/imagen24.jpg" alt="" />
 							</div>
 							<div className="fugu--card-data">
-								<h3>Los mejores cortes</h3>
-								<p>urbanos de Sevilla</p>
+								<h3>Los mejores cortes.</h3>
 							</div>
 						</div>
 					</div>
@@ -77,8 +75,7 @@ export default function FilterGalarryOne() {
 								<img src="/images/beneficios/imagen8.jpg" alt="" />
 							</div>
 							<div className="fugu--card-data">
-								<h3>Estilo vanguardista</h3>
-								<p>y últimas tendencias</p>
+								<h3>Estilo vanguardista y últimas tendencias.</h3>
 							</div>
 						</div>
 					</div>
@@ -89,8 +86,7 @@ export default function FilterGalarryOne() {
 								<img src="/images/beneficios/imagen7.jpg" alt="" />
 							</div>
 							<div className="fugu--card-data">
-								<h3>Trato cercano</h3>
-								<p>y personalizado</p>
+								<h3>Trato cercano y personalizado.</h3>
 							</div>
 						</div>
 					</div>
@@ -101,8 +97,7 @@ export default function FilterGalarryOne() {
 								<img src="/images/beneficios/imagen5.jpg" alt="" />
 							</div>
 							<div className="fugu--card-data">
-								<h3>Barbero referente</h3>
-								<p>en las academias de Sevilla</p>
+								<h3>Barbero referente en las academias de Sevilla.</h3>
 							</div>
 						</div>
 					</div>
@@ -113,8 +108,7 @@ export default function FilterGalarryOne() {
 								<img src="/images/beneficios/IMAGEN-X002.jpg" alt="" />
 							</div>
 							<div className="fugu--card-data">
-								<h3>Las marcas más top de peluquería</h3>
-								<p>confían en The Barber </p>
+								<h3>Las marcas más top de peluquería confían en The Barber.</h3>
 							</div>
 						</div>
 					</div>
@@ -125,8 +119,7 @@ export default function FilterGalarryOne() {
 								<img src="/images/beneficios/Imegen-X001.jpg" alt="" />
 							</div>
 							<div className="fugu--card-data">
-								<h3>Personajes públicos y famosos</h3>
-								<p>mejoran su imagen con The Barber </p>
+								<h3>Personajes públicos y famosos mejoran su imagen con The Barber.</h3>
 							</div>
 						</div>
 					</div>
@@ -137,20 +130,19 @@ export default function FilterGalarryOne() {
 								<img src="/images/beneficios/Imagen19.png" alt="" />
 							</div>
 							<div className="fugu--card-data">
-								<h3>Futuros barberos</h3>
-								<p>acuden a recibir consejos y formación</p>
+								<h3>Futuros barberos acuden a recibir consejos y formación.</h3>
 							</div>
 						</div>
 					</div>
 				</div>
 				
-				<div className="fugu--portfolio-btn">
+				{/* <div className="fugu--portfolio-btn">
 					<Link href={"#"} legacyBehavior>
 						<a className="fugu--outline-btn">
 							<span>View All NFTs</span>
 						</a>
 					</Link>
-				</div>
+				</div> */}
 			</div>
 			{/* <div className="fugu--shape2">
 				<img src="/images/shape2/shape2.png" alt="" />

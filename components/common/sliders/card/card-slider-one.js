@@ -55,6 +55,11 @@ export default function CardSliderOne() {
 							su imagen personal, recibe un trato exclusivo y una serie de
 							ventajas VIP. 
 						</p>
+						<p>
+							<strong>
+								Desliza las tarjetas para ver todos los beneficios ➡️
+							</strong>
+						</p>
 					</div>
 				</div>
 				<div className="fugu--slider-one">
@@ -64,7 +69,7 @@ export default function CardSliderOne() {
 								<img src="/images/beneficios/Imagen9.png" alt="" />
 							</div>
 							<div className="fugu--card-data">
-								<h3>Cortes, tintes y rituales de barba gratuitos</h3>
+								<h3>Cortes, tintes y rituales de barba gratuitos.</h3>
 							</div>
 						</div>
 						<div className="fugu--card-wrap">
@@ -80,7 +85,7 @@ export default function CardSliderOne() {
 								<img src="/images/beneficios/x2.png" alt="" />
 							</div>
 							<div className="fugu--card-data">
-								<h3>Promociones y Descuentos en productos y empresas colaboradoras</h3>
+								<h3>Promociones y Descuentos en productos y empresas colaboradoras.</h3>
 							</div>
 						</div>
 						<div className="fugu--card-wrap">
@@ -88,7 +93,7 @@ export default function CardSliderOne() {
 								<img src="/images/beneficios/X3.png" alt="" />
 							</div>
 							<div className="fugu--card-data">
-								<h3>Sorteos exclusivos de cortes. tintes, productos, merchandising</h3>
+								<h3>Sorteos exclusivos de cortes. tintes, productos, merchandising.</h3>
 							</div>
 						</div>
 						<div className="fugu--card-wrap">
@@ -96,7 +101,7 @@ export default function CardSliderOne() {
 								<img src="/images/beneficios/Imagen11.png" alt="" />
 							</div>
 							<div className="fugu--card-data">
-								<h3>Trato exclusivo en el establecimiento</h3>
+								<h3>Trato exclusivo en el establecimiento.</h3>
 							</div>
 						</div>
 						<div className="fugu--card-wrap">
@@ -112,7 +117,7 @@ export default function CardSliderOne() {
 								<img src="/images/beneficios/Imagen13.png" alt="" />
 							</div>
 							<div className="fugu--card-data">
-								<h3>Reservar con antelación en ocasiones especiales</h3>
+								<h3>Reservar con antelación en ocasiones especiales.</h3>
 							</div>
 						</div>
 						<div className="fugu--card-wrap">
@@ -120,7 +125,7 @@ export default function CardSliderOne() {
 								<img src="/images/beneficios/Imagen2.png" alt="" />
 							</div>
 							<div className="fugu--card-data">
-								<h3> Asesoramiento y creación de proyectos de corte</h3>
+								<h3> Asesoramiento y creación de proyectos de corte.</h3>
 							</div>
 						</div>
 					</Slider>

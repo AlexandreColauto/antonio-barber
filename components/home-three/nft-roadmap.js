@@ -16,7 +16,7 @@ export default function NftRoadMap() {
 					<div className="col-xl-3 col-md-6">
 						<div className="fugu--iconbox-wrap wow fadeInUpX" data-wow-delay="0s">
 							<div className="fugu--iconbox-thumb">
-								<img src="/images/all-img/v3/roadmap-icon1.png" alt="" />
+								<img src="/images/pasos/1.png" alt="" />
 							</div>
 							<div className="fugu--iconbox-data">
 								<h4>Haz click en el botón de comprar</h4>
@@ -29,7 +29,7 @@ export default function NftRoadMap() {
 					<div className="col-xl-3 col-md-6">
 						<div className="fugu--iconbox-wrap wow fadeInUpX" data-wow-delay="0.10s">
 							<div className="fugu--iconbox-thumb">
-								<img src="/images/all-img/v3/roadmap-icon2.png" alt="" />
+								<img src="/images/pasos/2.png"  alt="" />
 							</div>
 							<div className="fugu--iconbox-data">
 								<h4>Registrate con correo y contraseña en Cronpay</h4>
@@ -42,7 +42,7 @@ export default function NftRoadMap() {
 					<div className="col-xl-3 col-md-6">
 						<div className="fugu--iconbox-wrap wow fadeInUpX" data-wow-delay="0.20s">
 							<div className="fugu--iconbox-thumb">
-								<img src="/images/all-img/v3/roadmap-icon3.png" alt="" />
+								<img src="/images/pasos/3.png" alt="" />
 							</div>
 							<div className="fugu--iconbox-data">
 								<h4>Elige el pase que más se adapte a tus necesidades</h4>
@@ -55,7 +55,7 @@ export default function NftRoadMap() {
 					<div className="col-xl-3 col-md-6">
 						<div className="fugu--iconbox-wrap wow fadeInUpX" data-wow-delay="0.30s">
 							<div className="fugu--iconbox-thumb">
-								<img src="/images/all-img/v3/roadmap-icon4.png" alt="" />
+								<img src="/images/pasos/4.png"  alt="" />
 							</div>
 							<div className="fugu--iconbox-data">
 								<h4>Añade tu método de pago</h4>

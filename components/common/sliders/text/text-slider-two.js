@@ -9,7 +9,7 @@ export default function TextSliderTwo() {
 		dots: false,
 		autoplay: true,
 		autoplaySpeed: 0,
-		speed: 10000,
+		speed: 12500,
 		cssEase: "linear",
 		pauseOnHover: true,
 		adaptiveHeight: true,
