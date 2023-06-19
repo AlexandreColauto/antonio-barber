@@ -42,7 +42,8 @@ export default function FaqAccordionOne() {
 								<Accordion.Item eventKey="4">
 									<Accordion.Header>Tengo una duda específica y quiero contactar</Accordion.Header>
 									<Accordion.Body>
-										A través del siguiente enlace podrás enviar tu consulta de forma personalizada y la responderemos con la mayor brevedad posible. 
+										A través del siguiente <a href="mailto:“antoniolabrinth@gmail.com”" target="_blank">enlace </a>
+										podrás enviar tu consulta de forma personalizada y la responderemos con la mayor brevedad posible. 
 									</Accordion.Body>
 								</Accordion.Item>
 							</Accordion>

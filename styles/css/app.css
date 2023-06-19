@@ -4012,6 +4012,8 @@ margin-top: 30px;
 }
 .fugu--card-footer .fugu--btn {
 	min-width: inherit;
+	background-color: #fcee21 !important;
+	border: none !important;
 }
 
 .fugu--card-wrap.fugu--card2 {
@@ -4822,7 +4824,7 @@ a.fugu-app-btn:last-child {
 	}
 }
 .fugu--hero-right .fugu--card-wrap {
-	background: rgba(90, 75, 124, 0.5);
+	background: black;
 	backdrop-filter: blur(400px);
 }
 .fugu--hero-right .fugu--card-wrap:before {
@@ -5870,6 +5872,10 @@ a.fugu-app-btn:last-child {
 }
 .fugu--iconbox-thumb {
 	margin-bottom: 30px;
+}
+
+.fugu--iconbox-thumb img{
+	width: 100px;
 }
 .fugu--iconbox-data h4 {
 	font-weight: 600;
@@ -8004,6 +8010,13 @@ a.fugu-pricing-btn.active {
 }
 .fugu--default-content p {
 	color: #fff;
+}
+
+.bottom-disclaimer{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-top: 40px;
 }
 @media (max-width: 767px) {
 	.fugu--default-content p {

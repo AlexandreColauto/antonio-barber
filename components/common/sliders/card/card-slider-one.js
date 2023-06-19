@@ -130,6 +130,15 @@ export default function CardSliderOne() {
 						</div>
 					</Slider>
 				</div>
+				{/* <div className="fugu--section-title"> */}
+					<div className="fugu--default-content content-sm bottom-disclaimer">
+						<p>
+							<strong>
+								Desliza las tarjetas para ver todos los beneficios ➡️
+							</strong>
+						</p>
+					</div>
+				{/* </div> */}
 			</div>
 			{/* <div className="fugu--shape1">
 				<img src="/images/shape2/shape1.png" alt="" />

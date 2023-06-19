@@ -29,12 +29,12 @@ export default function FooterHomeThree() {
 											</a>
 										</li>
 										<li>
-											<a href={"https://api.whatsapp.com/send?phone=34691482161&text=Hola%20Antonio,%20me%20gustria%20saber%20m%C3%A1s%20sobre%20el%20pase%20digital%20de%20tu%20barberia."} target="_blank">
+											<a href={"https://wa.link/gnocyr"} target="_blank">
 												<FontAwesomeIcon icon={faWhatsapp} />
 											</a>
 										</li>
 									</ul>
-								</div>
+								</div> 
 							</div>
 						</div>
 						<div className="col-lg-2 offset-lg-1 col-md-4 col-sm-4">
