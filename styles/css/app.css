@@ -8017,6 +8017,7 @@ a.fugu-pricing-btn.active {
 	align-items: center;
 	justify-content: center;
 	margin-top: 40px;
+	text-align: center;
 }
 @media (max-width: 767px) {
 	.fugu--default-content p {

@@ -57,7 +57,7 @@ export default function CardSliderOne() {
 						</p>
 						<p>
 							<strong>
-								Desliza las tarjetas para ver todos los beneficios ➡️
+								DESLIZA LAS TARJETAS PARA VER TODOS LOS BENEFICIOS ➡️
 							</strong>
 						</p>
 					</div>
@@ -134,7 +134,7 @@ export default function CardSliderOne() {
 					<div className="fugu--default-content content-sm bottom-disclaimer">
 						<p>
 							<strong>
-								Desliza las tarjetas para ver todos los beneficios ➡️
+								DESLIZA LAS TARJETAS PARA VER TODOS LOS BENEFICIOS ➡️
 							</strong>
 						</p>
 					</div>
