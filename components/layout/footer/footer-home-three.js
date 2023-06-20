@@ -29,9 +29,14 @@ export default function FooterHomeThree() {
 											</a>
 										</li>
 										<li>
-											<a href={"https://wa.link/gnocyr"} target="_blank">
+											<a href={"https://api.whatsapp.com/send?phone=34691482161&text=Hola%20Antonio,%20me%20encantar%C3%ADa%20adquirir%20un%20pase%20digital%20en%20su%20barber%C3%ADa.%20He%20o%C3%ADdo%20maravillas%20de%20sus%20servicios%20y%20me%20gustar%C3%ADa%20formar%20parte%20de%20sus%20clientes%20regulares.%20%C2%BFPodr%C3%ADan%20proporcionarme%20m%C3%A1s%20informaci%C3%B3n%20sobre%20el%20pase,%20como%20los%20servicios%20incluidos%20y%20los%20beneficios%20adicionales"} target="_blank">
 												<FontAwesomeIcon icon={faWhatsapp} />
 											</a>
+										</li>
+										<li>
+											<a href="mailto:“antoniolabrinth@gmail.com”" target="_blank">
+													<FontAwesomeIcon icon={faEnvelope} />
+												</a>
 										</li>
 									</ul>
 								</div> 

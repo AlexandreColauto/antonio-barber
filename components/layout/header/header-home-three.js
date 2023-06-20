@@ -52,16 +52,17 @@ export default function HeaderHomeThree() {
 
 							<Navbar>
 								<NavItem navItemText="Reservar cita" link="https://booksy.com/es-es/34193_antonio-the-barber_barberia_29847_benacazon"/>
-								<NavItem navItemText="Comprar pase" link="#beneficios-clientes"/>
 							</Navbar>
 						</nav>
 					</div>
 
-					{/* <div className="header-btn header-btn-l1 ms-auto d-none d-xs-inline-flex">
+					<div className="header-btn ms-auto d-xs-inline-flex">
 						<a className="fugu--btn fugu--menu-btn1" href="#" target="_blank">
 							Comprar pase
 						</a>
-					</div> */}
+					</div>
+
+					{/* <NavItem className="comprar-pase" navItemText="Comprar pase" link="#"/> */}
 
 					<div className="header-btn header-btn-l1 ms-auto d-none d-xs-inline-flex">
 						<a className="social-icon" href="mailto:“antoniolabrinth@gmail.com”" target="_blank">
@@ -70,7 +71,7 @@ export default function HeaderHomeThree() {
 					</div>
 
 					<div className="header-btn header-btn-l1 ms-auto d-none d-xs-inline-flex">
-						<a className="social-icon" href="https://wa.link/gnocyr" target="_blank">
+						<a className="social-icon" href="https://api.whatsapp.com/send?phone=34691482161&text=Hola%20Antonio,%20me%20encantar%C3%ADa%20adquirir%20un%20pase%20digital%20en%20su%20barber%C3%ADa.%20He%20o%C3%ADdo%20maravillas%20de%20sus%20servicios%20y%20me%20gustar%C3%ADa%20formar%20parte%20de%20sus%20clientes%20regulares.%20%C2%BFPodr%C3%ADan%20proporcionarme%20m%C3%A1s%20informaci%C3%B3n%20sobre%20el%20pase,%20como%20los%20servicios%20incluidos%20y%20los%20beneficios%20adicionales" target="_blank">
 							<FontAwesomeIcon icon={faWhatsapp} />
 						</a>
 					</div>

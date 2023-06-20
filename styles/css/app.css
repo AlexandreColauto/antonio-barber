@@ -3102,7 +3102,8 @@ footer.fugo--footer-section.white-version .fugo--footer-bottom p {
 	color: #fff;
 	padding: 10.5px 31px;
 	background-size: 200% auto !important;
-	background: #8cc63f
+	background: #8cc63f;
+	margin-right: 20px;
 }
 .fugu--btn.fugu--menu-btn1:hover {
 	background-position: right center;
@@ -3232,7 +3233,7 @@ footer.fugo--footer-section.white-version .fugo--footer-bottom p {
 	transition: all 0.4s;
 	opacity: 0;
 	border-radius: 10px;
-	background: black
+	color: black;
 }
 .fugu--btn:hover:before {
 	opacity: 1;
