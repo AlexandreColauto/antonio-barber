@@ -56,14 +56,6 @@ export default function CardSliderOne() {
 							ventajas VIP. 
 						</p>
 						
-						<div className="reserva">
-							<a href={"https://booksy.com/es-es/34193_antonio-the-barber_barberia_29847_benacazon"} target="_blank" id="reserva">
-								<a className="fugu--outline-btn">
-									<span>Comprar pase</span>
-								</a>
-							</a>
-						</div>
-						
 						<p>
 							<strong>
 								DESLIZA LAS TARJETAS PARA VER TODOS LOS BENEFICIOS ➡️
@@ -146,8 +138,17 @@ export default function CardSliderOne() {
 								DESLIZA LAS TARJETAS PARA VER TODOS LOS BENEFICIOS ➡️
 							</strong>
 						</p>
+
 					</div>
 				{/* </div> */}
+
+				<div className="fugu--default-content content-sm bottom-disclaimer">
+							<a href={"https://booksy.com/es-es/34193_antonio-the-barber_barberia_29847_benacazon"} target="_blank" id="reserva">
+								<a className="fugu--outline-btn">
+									<span>Comprar pase</span>
+								</a>
+							</a>
+						</div>
 			</div>
 			{/* <div className="fugu--shape1">
 				<img src="/images/shape2/shape1.png" alt="" />

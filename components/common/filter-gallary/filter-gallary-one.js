@@ -45,14 +45,6 @@ export default function FilterGalarryOne() {
 						<p>
 							Este pase está enfocado en las personas que quieren aprender a cortar el cabello con uno de los peluqueros más reconocidos de Andalucía.
 						</p>
-
-						<div className="reserva">
-							<a href={"https://booksy.com/es-es/34193_antonio-the-barber_barberia_29847_benacazon"} target="_blank" id="reserva">
-								<a className="fugu--outline-btn">
-									<span>Comprar pase</span>
-								</a>
-							</a>
-						</div>
 						
 					</div>
 				</div>
@@ -177,13 +169,13 @@ export default function FilterGalarryOne() {
 						</div>
 					</div>
 				</div>
-				{/* <div className="fugu--portfolio-btn">
+				<div className="fugu--portfolio-btn">
 					<Link href={"#"} legacyBehavior>
 						<a className="fugu--outline-btn">
-							<span>View All NFTs</span>
+							<span>Comprar pase</span>
 						</a>
 					</Link>
-				</div> */}
+				</div>
 			</div>
 			{/* <div className="fugu--shape2">
 				<img src="/images/shape2/shape2.png" alt="" />

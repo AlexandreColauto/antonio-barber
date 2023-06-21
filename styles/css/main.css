@@ -598,7 +598,7 @@
 /*responsive*/
 @media (max-width: 991px) {
 	.site-header .mobile-menu-trigger {
-		display: flex;
+		display: none;
 		height: 30px;
 		width: 30px;
 		margin-left: 15px;
