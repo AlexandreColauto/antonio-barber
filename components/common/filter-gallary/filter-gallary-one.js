@@ -2,6 +2,7 @@
 import Isotope from "isotope-layout";
 import Link from "next/link";
 import { useEffect, useRef, useState } from "react";
+import toast, { Toaster } from 'react-hot-toast';
 export default function FilterGalarryOne() {
 	const isotope = useRef();
 	const [activeClass, setActiveClass] = useState("*");
@@ -170,11 +171,16 @@ export default function FilterGalarryOne() {
 					</div>
 				</div>
 				<div className="fugu--portfolio-btn">
-					<Link href={"#"} legacyBehavior>
+					<a
+						// href={"https://booksy.com/es-es/34193_antonio-the-barber_barberia_29847_benacazon"}
+						onClick={() => toast('Este pase estará disponible próximamente, sigue a Antonio The Barber en las redes sociales para estar al tanto de las últimas novedades.') }
+						// target="_blank"
+						id="reserva"
+					>
 						<a className="fugu--outline-btn">
 							<span>Comprar pase</span>
 						</a>
-					</Link>
+					</a>
 				</div>
 			</div>
 			{/* <div className="fugu--shape2">

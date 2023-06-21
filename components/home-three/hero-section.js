@@ -22,7 +22,7 @@ export default function HeroSection() {
 								<Link href={"#conoce"} legacyBehavior>
 									<a className="fugu--btn bg-gray active">Conoce a Antonio</a>
 								</Link>
-								<Link href={"#beneficios-alumnos"} legacyBehavior>
+								<Link href={"#beneficios-clientes"} legacyBehavior>
 									<a className="fugu--btn bg-gray">Beneficios del pase</a>
 								</Link>
 							</div>

@@ -1,6 +1,10 @@
 /* eslint-disable @next/next/no-img-element */
 import Link from "next/link";
 import Slider from "react-slick";
+
+import toast, { Toaster } from 'react-hot-toast';
+
+
 function NextArrow({ onClick }) {
 	return <button className="slide-arrow fugu--arrow" onClick={onClick}></button>;
 }
@@ -143,12 +147,17 @@ export default function CardSliderOne() {
 				{/* </div> */}
 
 				<div className="fugu--default-content content-sm bottom-disclaimer">
-							<a href={"https://booksy.com/es-es/34193_antonio-the-barber_barberia_29847_benacazon"} target="_blank" id="reserva">
-								<a className="fugu--outline-btn">
-									<span>Comprar pase</span>
-								</a>
-							</a>
-						</div>
+					<a
+						// href={"https://booksy.com/es-es/34193_antonio-the-barber_barberia_29847_benacazon"}
+						onClick={() => toast('Este pase estará disponible próximamente, sigue a Antonio The Barber en las redes sociales para estar al tanto de las últimas novedades.') }
+						// target="_blank"
+						id="reserva"
+					>
+						<a className="fugu--outline-btn">
+							<span>Comprar pase</span>
+						</a>
+					</a>
+				</div>
 			</div>
 			{/* <div className="fugu--shape1">
 				<img src="/images/shape2/shape1.png" alt="" />

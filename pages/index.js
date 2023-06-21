@@ -8,6 +8,7 @@ import NewsLetter from "../components/home-three/news-letter";
 import NftRoadMap from "../components/home-three/nft-roadmap";
 import Team from "../components/home-three/Team";
 import FaqAccordionOne from "../components/common/faq/faq-accordion-one";
+import { Toaster } from "react-hot-toast";
 
 const FilterGalarryOne = dynamic(() => import("../components/common/filter-gallary/filter-gallary-one"), {
 	ssr: false,
@@ -24,6 +25,7 @@ export default function IndexThree() {
 			<Head>
 				<title>ANTONIO Barber</title>
 			</Head>
+			<Toaster />
 			<HeroSection />
 			<CardSliderOne />
 			<FilterGalarryOne />
