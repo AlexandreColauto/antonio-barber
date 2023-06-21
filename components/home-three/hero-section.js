@@ -14,9 +14,9 @@ export default function HeroSection() {
 								“Descubre la nueva experiencia de cortarse el cabello”
 							</h1>
 							<p className="wow fadeInUpX" data-wow-delay="0.10s">
-								Cortes y tintes gratuitos, descuentos y sorteos en productos y marcas asociadas,
-								reservar de manera exclusiva , asesoramiento gratuito en proyectos de corte,
-								rituales de barba a coste 0 y mucho más!
+								Obtén múltiples beneficios exclusivos tanto si eres cliente de Antonio como si quieres
+								formarte con él para aprender su estilo de corte, simplemente compra el Pase Vip “The Barber”
+								y empieza a disfrutar de todas las ventajas.
 							</p>
 							<div className="fugu--btn-wrap fugu--hero-btn wow fadeInUpX" data-wow-delay="0.20s">
 								<Link href={"#conoce"} legacyBehavior>

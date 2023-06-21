@@ -39,7 +39,7 @@ export default function HeaderHomeThree() {
 					</div>
 					
 					<div className="menu-block-wrapper">
-						<div
+						{/* <div
 							className={`menu-overlay ${isMobileMenuOpen ? "active" : null}`}
 							onClick={handleCloseMobileMenu}
 						></div>
@@ -53,7 +53,7 @@ export default function HeaderHomeThree() {
 							<Navbar>
 								<NavItem navItemText="Reservar cita" link="https://booksy.com/es-es/34193_antonio-the-barber_barberia_29847_benacazon"/>
 							</Navbar>
-						</nav>
+						</nav> */}
 					</div>
 
 					<div className="header-btn ms-auto d-xs-inline-flex">

@@ -8,7 +8,7 @@ export default function NftRoadMap() {
 					<div className="fugu--default-content content-sm">
 						<h2>¿Cómo puedo comprar el pase?</h2>
 						<p>
-							Te explicamos paso a paso cómo obtener el pase, no serán más de 2 minutos.
+							Descubre cómo obtener tu pase en solo 5 minutos, ¡te lo explicamos paso a paso!
 						</p>
 					</div>
 				</div>
@@ -19,9 +19,9 @@ export default function NftRoadMap() {
 								<img src="/images/pasos/1.png" alt="" />
 							</div>
 							<div className="fugu--iconbox-data">
-								<h4>Haz click en el botón de comprar</h4>
+								<h4>Descarga la aplicación Cronpay desde App Store o Google Play Store y regístrate en un abrir y cerrar de ojos.</h4>
 								<p>
-									Lo encontrarás en varios apartados de la web.
+									Cronpay es una increíble Cartera Encriptada que mantendrá tu Pase 'The Barber' a salvo, permitiéndote canjear los beneficios cuando tú quieras.
 								</p>
 							</div>
 						</div>
@@ -32,9 +32,9 @@ export default function NftRoadMap() {
 								<img src="/images/pasos/2.png"  alt="" />
 							</div>
 							<div className="fugu--iconbox-data">
-								<h4>Registrate con correo y contraseña en Cronpay</h4>
+								<h4>Haz clic en el botón 'Comprar Pase' en nuestro sitio web y accede a tu cuenta Cronpay</h4>
 								<p>
-								Una vez le des al boton de comprar se abrirá una página llamada Cronpay, deberás registrarte con tu correo electrónico y la contraseña que prefieras para adquirir el pase. 
+								Una vez que hayas descargado la aplicación y completado el registro, regresa a la página web de Antonio The Barber y haz clic en 'Comprar Pase'. Te aparecerá un práctico Pop-Up para iniciar sesión.
 								</p>
 							</div>
 						</div>
@@ -45,9 +45,9 @@ export default function NftRoadMap() {
 								<img src="/images/pasos/3.png" alt="" />
 							</div>
 							<div className="fugu--iconbox-data">
-								<h4>Elige el pase que más se adapte a tus necesidades</h4>
+								<h4>Elige el pase que mejor se adapte a tus necesidades</h4>
 								<p>
-									Dentro de Cronpay podrás elegir entre el pase para formación (academy) o el pase para cliente de la barbería(customer) 
+									En la App de Cronpay, tendrás la opción de seleccionar entre nuestro 'Pase para clientes' o nuestro 'Pase para alumnos'.
 								</p>
 							</div>
 						</div>
@@ -58,11 +58,19 @@ export default function NftRoadMap() {
 								<img src="/images/pasos/4.png"  alt="" />
 							</div>
 							<div className="fugu--iconbox-data">
-								<h4>Añade tu método de pago</h4>
+								<h4>Añade tu método de pago y confirma la transacción en la App de Cronpay.</h4>
 								<p>
-									Una vez elegido el pase, podrás pagar de distintas formas, realizalo de la forma que se te haga más cómoda y una vez se confirme el pago te llegará el pase a tu perfil de Cronpay.
+									¡Listo! Ahora podrás disfrutar de todos los beneficios VIP en tu Barbería favorita.
 								</p>
 							</div>
+						</div>
+					</div>
+
+					<div className="fugu--section-title reserva">
+						<div className="fugu--default-content content-sm">
+							<p>
+							¡Prepárate para vivir una experiencia exclusiva y emocionante! No pierdas más tiempo y obtén tu pase hoy mismo. ¡Te aseguramos que no te arrepentirás!"
+							</p>
 						</div>
 					</div>
 				</div>

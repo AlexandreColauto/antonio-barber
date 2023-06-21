@@ -49,12 +49,21 @@ export default function CardSliderOne() {
 			<div className="container">
 				<div className="fugu--section-title">
 					<div className="fugu--default-content content-sm">
-						<h2> Beneficios del pase “The Barber” para clientes.</h2>
+						<h2>Pase "The Barber" para Clientes</h2>
 						<p>
 							Este pase está enfocado en las personas que van a cuidar
 							su imagen personal, recibe un trato exclusivo y una serie de
 							ventajas VIP. 
 						</p>
+						
+						<div className="reserva">
+							<a href={"https://booksy.com/es-es/34193_antonio-the-barber_barberia_29847_benacazon"} target="_blank" id="reserva">
+								<a className="fugu--outline-btn">
+									<span>Comprar pase</span>
+								</a>
+							</a>
+						</div>
+						
 						<p>
 							<strong>
 								DESLIZA LAS TARJETAS PARA VER TODOS LOS BENEFICIOS ➡️

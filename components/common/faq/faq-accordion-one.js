@@ -24,7 +24,7 @@ export default function FaqAccordionOne() {
 								<Accordion.Item eventKey="1">
 									<Accordion.Header>¿De qué forma lo obtengo?</Accordion.Header>
 									<Accordion.Body>
-										Haz click en el botón de comprar que verás en la web, regístrate con tu correo en Cronpay y podrás acceder a obtenerlo, lo podrás pagar tanto en euros como en criptomonedas.
+										Descarga la aplicación de Cronpay y regístrate. Después regresa a la página web “Antonio The Barber” y haz clic en el botón de comprar pase, ahí podrás iniciar sesión y elegir el que más se adapte a tus necesidades, una vez elegido, introduce el método de pago que prefieras y cómpralo, para tu seguridad tendrás que aceptar la transacción en la aplicación de Cronpay igual que haces con tus compras en internet.
 									</Accordion.Body>
 								</Accordion.Item>
 								<Accordion.Item eventKey="2">
