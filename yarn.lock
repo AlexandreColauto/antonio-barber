@@ -508,6 +508,11 @@ concat-map@0.0.1:
   resolved "https://registry.yarnpkg.com/concat-map/-/concat-map-0.0.1.tgz#d8a96bd77fd68df7793a73036a3ba0d5405d477b"
   integrity sha512-/Srv4dswyQNBfohGpz9o6Yb3Gz3SrUDqBH5rTuhGR7ahtlbYKnVxw2bCFMRljaA7EXHaXZ8wsHdodFvbkhKmqg==
 
+conpay-button@^0.1.11:
+  version "0.1.11"
+  resolved "https://registry.yarnpkg.com/conpay-button/-/conpay-button-0.1.11.tgz#f3a2762679ed1ab844d9b19dcc96dbf4ee7477a6"
+  integrity sha512-HFwVnGiedUB/E2CbOn6vz/SS0DzT0mu1axatT37/loLZP9kb33LF32bKZ3L0Vo4Rpl1cqsvfuVgfzbY9d1ei+A==
+
 core-js-pure@^3.25.1:
   version "3.25.5"
   resolved "https://registry.yarnpkg.com/core-js-pure/-/core-js-pure-3.25.5.tgz#79716ba54240c6aa9ceba6eee08cf79471ba184d"
